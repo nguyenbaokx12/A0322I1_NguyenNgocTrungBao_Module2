@@ -14,17 +14,6 @@ public class XayDungLopQuadraticEquation {
         this.c = c;
         this.delta = this.b*this.b - 4*this.a*this.c;
     }
-    public double getA() {
-        return a;
-    }
-
-    public double getB() {
-        return b;
-    }
-
-    public double getC() {
-        return c;
-    }
 
     public double getDelta() {
         return delta;
