@@ -2,7 +2,7 @@ package ss5_access_modifier_static.baitap;
 
 public class AccessModifier {
     private int radius=1;
-    private String color="xanh";
+    private String color="đen";
 
     protected AccessModifier(int radius){
         this.radius=radius;
