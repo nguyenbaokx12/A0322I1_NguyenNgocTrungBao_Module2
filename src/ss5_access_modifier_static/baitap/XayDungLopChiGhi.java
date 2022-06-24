@@ -28,8 +28,8 @@ public class XayDungLopChiGhi {
     public static void main(String[] args) {
         XayDungLopChiGhi Student1=new XayDungLopChiGhi("Nguyễn Ngọc Trung Bảo","Lớp A03");
         System.out.println(Student1.getName()+" "+Student1.getClasses());
-        XayDungLopChiGhi Student2=new XayDungLopChiGhi();
-        System.out.println(Student2.getName()+" "+Student2.getClasses());
+//        XayDungLopChiGhi Student2=new XayDungLopChiGhi();
+//        System.out.println(Student2.getName()+" "+Student2.getClasses());
 
     }
 
