@@ -4,7 +4,7 @@ public class SanPhamXuatKhau extends SanPham  {
     private int giaXuatKhau;
     private String quocGiaNhapSanPham;
 
-    public SanPhamXuatKhau(int i, String maSanPham, String tenSanPham, double v, int giaXuatKhau, String nhaSanXuat, String quocGiaNhapSanPham) {
+    public SanPhamXuatKhau(int i, String maSanPham, String tenSanPham, int giaXuatKhau, String nhaSanXuat, String quocGiaNhapSanPham) {
         this.giaXuatKhau = giaXuatKhau;
         this.quocGiaNhapSanPham = quocGiaNhapSanPham;
     }

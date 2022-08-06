@@ -13,7 +13,6 @@ import java.util.Scanner;
 public class Menu {
     public static Scanner sc = new Scanner(System.in);
     private static SanPhamService sanPhamService = new SanPhamService();
-    private static SanPham sanPhams;
 
     public static void main(String[] args) {
         while (true) {
